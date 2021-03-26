@@ -4,4 +4,3 @@ document.querySelector("#myDiv").appendChild(elem);
 
 //Your code here
 // Don'change the code above
-elem.style.background = 'yellow';
